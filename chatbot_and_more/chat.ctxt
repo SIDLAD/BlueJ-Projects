@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ room()
+comment1.params=inp\ ori
+comment1.target=void\ room(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=void\ yname()
+comment3.params=inp
+comment3.target=void\ mname(java.lang.String)
+comment4.params=inp
+comment4.target=void\ yes_no_be(java.lang.String)
+comment5.params=inp
+comment5.target=void\ yes_no_fine(java.lang.String)
+comment6.params=
+comment6.target=void\ exit()
+comment7.params=
+comment7.target=void\ main()
+numComments=8

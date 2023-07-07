@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=k
+comment0.target=void\ _(java.lang.String)
+comment1.params=k
+comment1.target=void\ ln(java.lang.String)
+comment10.params=k
+comment10.target=void\ ln2(double)
+comment2.params=
+comment2.target=void\ ln()
+comment3.params=
+comment3.target=void\ ln2()
+comment4.params=k
+comment4.target=void\ ln2(java.lang.String)
+comment5.params=k
+comment5.target=void\ _(int)
+comment6.params=k
+comment6.target=void\ ln(int)
+comment7.params=k
+comment7.target=void\ ln2(int)
+comment8.params=k
+comment8.target=void\ _(double)
+comment9.params=k
+comment9.target=void\ ln(double)
+numComments=11
