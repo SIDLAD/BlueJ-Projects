@@ -13,7 +13,8 @@ but bullet points, time functions, and clearing output screen after every
 frame. Kinda cool, especially somatowave4, that simulates a rotating 
 crystal.
 
--others : random stuff
+-others : random stuff, some files are used as modular functions for
+the bigger files
 ------------------------------------------------------------------------
 YEAR MODIFIED LAST: 2018
 GRADE: 10th Grade (High-school)

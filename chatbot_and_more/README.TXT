@@ -7,7 +7,8 @@ short stories, and has a convenient in-built calculator too!
 
 - fibonacci, pascal triangle: self-explanatory
 
--others : random stuff
+-others : random stuff, some files are used as modular functions for
+the bigger files
 ------------------------------------------------------------------------
 YEAR MODIFIED LAST: 2018
 GRADE: 10th Grade (High-school)
